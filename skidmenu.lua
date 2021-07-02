@@ -28,9 +28,9 @@ If you make an edit and would like to add your name, feel free to do so.
 Please leave the original developers somewhere in the credits.
 ]]
 developers = {
-    "tommyakshot - Joeyarrabi#7440", -- Main Developer
-    "Kirtle - Kirtle#0498", -- Secondary Developer
-    "Erwin Rommel - Erwin Rommel#4860" -- Tertiary Developer and GitHub Maintenance
+    "Devious - Devious#2838", -- Main Developer
+    "Devious - Devious#2838", -- Secondary Developer
+    "Devious - Devious#2838", -- Tertiary Developer and GitHub Maintenance
 }
 
 -- Keybindings
@@ -58,12 +58,12 @@ motd = "∑ Press ~b~" .. noclipKeybind .. "~w~ to toggle noclip!" -- motd
 menulist = {
         
         -- MAIN SUBMENUS
-        'skid',
-        'player',
-        'self',
-        'weapon',
-        'vehicle',
-        'world',
+        'DEVIOUS',
+        'opps',
+        'devious',
+        'oppstoppa',
+        'skrt',
+        'opps block',
         'misc',
         'teleport',
         'lua',
